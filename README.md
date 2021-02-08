@@ -45,5 +45,5 @@ This analysis was made by me, an Udacity student with the data provided by Stack
 The results and the code can be used in any way. 
 
 ### Contact: 
-Medium: https://medium.com/@eren.altun
+Medium: https://medium.com/@eren.altun  
 LinkedIn: https://www.linkedin.com/in/eren-altun91/
