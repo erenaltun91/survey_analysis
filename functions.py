@@ -58,7 +58,7 @@ def plot_workinghours_per_week(df,country,hours_limit):
     plt.title("Hours at Work per Week in "+country+" in 2020")
     plt.ylabel('Number of Participants')
     plt.xlabel('Hours at Work')
-    print("The average age in "+country+" is {}".format(np.round(df[(df['Country']==country) & (df['WorkWeekHrs'] <= hours_limit)]['WorkWeekHrs'].mean())))
+    print("The average hours of work per week in "+country+" is {}".format(np.round(df[(df['Country']==country) & (df['WorkWeekHrs'] <= hours_limit)]['WorkWeekHrs'].mean())))
      
 def plot_age(df,country,age_limit):
     """
